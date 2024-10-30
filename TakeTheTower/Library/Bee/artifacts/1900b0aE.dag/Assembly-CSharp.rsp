@@ -400,6 +400,7 @@
 "Assets/LowpolyDungeonAssets/Demo Scene/PostProcessing/Runtime/Utils/MaterialFactory.cs"
 "Assets/LowpolyDungeonAssets/Demo Scene/PostProcessing/Runtime/Utils/RenderTextureFactory.cs"
 "Assets/LowpolyDungeonAssets/Demo Scene/PostProcessing/Utilities/CustomMotionTexture/ExampleWheelController.cs"
+"Assets/Scripts/CharacterMovement.cs"
 -langversion:9.0
 
 /deterministic

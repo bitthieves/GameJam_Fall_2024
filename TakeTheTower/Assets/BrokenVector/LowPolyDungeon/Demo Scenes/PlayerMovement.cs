@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (controller.isGrounded && velocity.y < 0)
         {
